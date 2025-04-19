@@ -1,0 +1,4 @@
+Flask==2.3.3
+flask-cors==4.0.0
+uuid==1.30
+argo-api-python==1.0.1
